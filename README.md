@@ -223,10 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by developers, for developers
-</p>
-
-<p align="center">
   <a href="https://github.com/yourusername/helper-markdowns/issues">Report Bug</a> •
   <a href="https://github.com/yourusername/helper-markdowns/issues">Request Feature</a> •
   <a href="https://github.com/yourusername/helper-markdowns/discussions">Discussions</a>
